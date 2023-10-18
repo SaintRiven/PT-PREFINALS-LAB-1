@@ -1,0 +1,33 @@
+{
+    "Employee1": {
+      "id":1,
+      "Company Name":"Youtube",
+      "Name of Employee":"Rod Riven",
+      "Position":"Senior Programmer",
+      "Location":"Barobo Surigao del sur"
+    },
+  
+    "Employee2":  {
+      "id":2,
+      "Company Name":"Grammarly",
+      "Name of Employee":"Angeline Reyes",
+      "Position":"Engineer",
+      "Location":"Davao City"
+    },
+  
+    "Employee3":  {
+      "id":3,
+      "Company Name":"Microsoft",
+      "Name of Employee":"Jummel",
+      "Position":"System Analyst",
+      "Location":"Digos City"
+    },
+  
+    "Employee4": {
+      "id":4,
+      "Company Name":"Facebook Meta",
+      "Name of Employee":"Kristine Joy",
+      "Position":"Data Analyst",
+      "Location":"Quezon City"
+    }
+  }
